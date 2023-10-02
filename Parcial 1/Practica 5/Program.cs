@@ -11,7 +11,7 @@
             Console.WriteLine("         INICIO DEL PROGRAMA \n");
 
             Console.WriteLine("1.- Cuadro Magico");
-            Console.WriteLine("2.- Matriz 5x10");
+            Console.WriteLine("2.- Matriz 5 x 10");
             Console.WriteLine("3.- Resumen de ventas");
             Console.WriteLine("4.- Calificaciones");
             Console.WriteLine("5.- Cerrar");
