@@ -1,0 +1,14 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\bin\Debug\net7.0\asjasd.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\bin\Debug\net7.0\asjasd.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\bin\Debug\net7.0\asjasd.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\bin\Debug\net7.0\asjasd.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\bin\Debug\net7.0\asjasd.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\refint\asjasd.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\asjasd.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\asjasd\obj\Debug\net7.0\ref\asjasd.dll

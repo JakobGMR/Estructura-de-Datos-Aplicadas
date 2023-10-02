@@ -1,0 +1,14 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\bin\Debug\net7.0\Practica 5.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\bin\Debug\net7.0\Practica 5.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\bin\Debug\net7.0\Practica 5.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\bin\Debug\net7.0\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\bin\Debug\net7.0\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\refint\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\Practica 5.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Practicas\Parcial 1\Practica 5\obj\Debug\net7.0\ref\Practica 5.dll

@@ -1,0 +1,28 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\bin\Debug\net6.0-windows\Practica 1.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\bin\Debug\net6.0-windows\Practica 1.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\bin\Debug\net6.0-windows\Practica 1.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\bin\Debug\net6.0-windows\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\bin\Debug\net6.0-windows\Practica 1.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\refint\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\Practica 1.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1\obj\Debug\net6.0-windows\ref\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\bin\Debug\net6.0-windows\Practica 1.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\bin\Debug\net6.0-windows\Practica 1.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\bin\Debug\net6.0-windows\Practica 1.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\bin\Debug\net6.0-windows\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\bin\Debug\net6.0-windows\Practica 1.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\refint\Practica 1.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\Practica 1.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 1\Practica 1 vsCode\obj\Debug\net6.0-windows\ref\Practica 1.dll
