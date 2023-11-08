@@ -1,0 +1,17 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\bin\Debug\net7.0-windows\JuegoCoches.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\bin\Debug\net7.0-windows\JuegoCoches.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\bin\Debug\net7.0-windows\JuegoCoches.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\bin\Debug\net7.0-windows\JuegoCoches.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\bin\Debug\net7.0-windows\JuegoCoches.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.Form1.resources
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.csproj.GenerateResource.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\refint\JuegoCoches.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\ref\JuegoCoches.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\JuegoCoches\obj\Debug\net7.0-windows\JuegoCoches.Properties.Resources.resources

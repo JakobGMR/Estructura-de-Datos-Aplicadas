@@ -1,0 +1,28 @@
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.exe
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.deps.json
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.runtimeconfig.json
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.dll
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.pdb
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.AssemblyInfoInputs.cache
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.AssemblyInfo.cs
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.csproj.CoreCompileInputs.cache
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.dll
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\refint\EjemploColas.dll
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.pdb
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.genruntimeconfig.cache
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 2\EjemploColas\obj\Debug\net7.0\ref\EjemploColas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\bin\Debug\net7.0\EjemploColas.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\refint\EjemploColas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\EjemploColas.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploColas\obj\Debug\net7.0\ref\EjemploColas.dll

@@ -1,0 +1,16 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica_12.Form1.resources
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.csproj.GenerateResource.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\bin\Debug\net7.0-windows\Practica 12.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\bin\Debug\net7.0-windows\Practica 12.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\bin\Debug\net7.0-windows\Practica 12.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\bin\Debug\net7.0-windows\Practica 12.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\bin\Debug\net7.0-windows\Practica 12.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\refint\Practica 12.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\Practica 12.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\Practica 12\obj\Debug\net7.0-windows\ref\Practica 12.dll

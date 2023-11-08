@@ -1,0 +1,29 @@
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.csproj.AssemblyReference.cache
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.AssemblyInfoInputs.cache
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.AssemblyInfo.cs
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.csproj.CoreCompileInputs.cache
+D:\usuario\Desktop\EjemploListas\bin\Debug\net7.0\EjemploListas.exe
+D:\usuario\Desktop\EjemploListas\bin\Debug\net7.0\EjemploListas.deps.json
+D:\usuario\Desktop\EjemploListas\bin\Debug\net7.0\EjemploListas.runtimeconfig.json
+D:\usuario\Desktop\EjemploListas\bin\Debug\net7.0\EjemploListas.dll
+D:\usuario\Desktop\EjemploListas\bin\Debug\net7.0\EjemploListas.pdb
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.dll
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\refint\EjemploListas.dll
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.pdb
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\EjemploListas.genruntimeconfig.cache
+D:\usuario\Desktop\EjemploListas\obj\Debug\net7.0\ref\EjemploListas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\bin\Debug\net7.0\EjemploListas.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\bin\Debug\net7.0\EjemploListas.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\bin\Debug\net7.0\EjemploListas.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\bin\Debug\net7.0\EjemploListas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\bin\Debug\net7.0\EjemploListas.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\refint\EjemploListas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\EjemploListas.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 2\EjemploListas\obj\Debug\net7.0\ref\EjemploListas.dll

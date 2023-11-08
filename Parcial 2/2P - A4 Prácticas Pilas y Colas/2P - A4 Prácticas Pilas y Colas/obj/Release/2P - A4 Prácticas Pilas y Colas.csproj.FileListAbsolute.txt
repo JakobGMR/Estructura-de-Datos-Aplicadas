@@ -1,0 +1,15 @@
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\bin\Release\2P - A4 Prácticas Pilas y Colas.exe.config
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\bin\Release\2P - A4 Prácticas Pilas y Colas.exe
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\bin\Release\2P - A4 Prácticas Pilas y Colas.pdb
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\2P - A4 Prácticas Pilas y Colas.csproj.AssemblyReference.cache
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Inicio.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Práctica11.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Práctica12.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Form2.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Práctica9.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Práctica10.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\_2P___A4_Prácticas_Pilas_y_Colas.Properties.Resources.resources
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\2P - A4 Prácticas Pilas y Colas.csproj.GenerateResource.cache
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\2P - A4 Prácticas Pilas y Colas.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\2P - A4 Prácticas Pilas y Colas.exe
+C:\Users\Guillermo Aguilar\source\repos\2P - A4 Prácticas Pilas y Colas\2P - A4 Prácticas Pilas y Colas\obj\Release\2P - A4 Prácticas Pilas y Colas.pdb
