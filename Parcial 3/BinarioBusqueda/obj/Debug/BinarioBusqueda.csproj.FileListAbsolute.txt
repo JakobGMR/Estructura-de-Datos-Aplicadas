@@ -1,5 +1,0 @@
-C:\Documents and Settings\mmartin\Mis documentos\Estructura de Datos Septiembre Diciembre 2010\BinarioBusqueda\BinarioBusqueda\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\mmartin\Mis documentos\Estructura de Datos Septiembre Diciembre 2010\BinarioBusqueda\BinarioBusqueda\bin\Debug\BinarioBusqueda.exe
-C:\Documents and Settings\mmartin\Mis documentos\Estructura de Datos Septiembre Diciembre 2010\BinarioBusqueda\BinarioBusqueda\bin\Debug\BinarioBusqueda.pdb
-C:\Documents and Settings\mmartin\Mis documentos\Estructura de Datos Septiembre Diciembre 2010\BinarioBusqueda\BinarioBusqueda\obj\Debug\BinarioBusqueda.exe
-C:\Documents and Settings\mmartin\Mis documentos\Estructura de Datos Septiembre Diciembre 2010\BinarioBusqueda\BinarioBusqueda\obj\Debug\BinarioBusqueda.pdb

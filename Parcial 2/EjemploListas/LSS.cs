@@ -239,7 +239,7 @@ namespace ListaLigadaSimple
                     temp = null; // Elimina el nodo en la posición deseada
                 }
 
-                else
+                else 
                 {
                     // La posición deseada está más allá del final de la lista, no se realiza la eliminación
                     return false;

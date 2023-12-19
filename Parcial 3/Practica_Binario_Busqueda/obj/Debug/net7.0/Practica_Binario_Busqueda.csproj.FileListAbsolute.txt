@@ -1,0 +1,14 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\bin\Debug\net7.0\Practica_Binario_Busqueda.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\bin\Debug\net7.0\Practica_Binario_Busqueda.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\bin\Debug\net7.0\Practica_Binario_Busqueda.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\bin\Debug\net7.0\Practica_Binario_Busqueda.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\bin\Debug\net7.0\Practica_Binario_Busqueda.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.AssemblyInfoInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.AssemblyInfo.cs
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\refint\Practica_Binario_Busqueda.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\Practica_Binario_Busqueda.genruntimeconfig.cache
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Estructura de datos Aplicadas\Parcial 3\Practica_Binario_Busqueda\obj\Debug\net7.0\ref\Practica_Binario_Busqueda.dll
